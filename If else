@@ -1,0 +1,17 @@
+
+public class simple {
+
+	public static void main(String[] args) {
+		
+		
+		int x = 20, y = 100;
+		if(x>y) {
+			System.out.println("x is greater, x= "+x);
+		}
+		else {
+			System.out.println("y is greater, y= "+y);
+		}
+
+	}
+
+}
