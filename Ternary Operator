@@ -1,0 +1,17 @@
+
+package Main;
+
+public class check {
+	
+	public static void main(String[] args) {
+		
+		char ch = 'b';
+		
+		String s = (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') ? "Vowel" : "Consonant";
+	
+		System.out.println(s);
+	
+		
+	}
+
+}
