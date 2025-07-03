@@ -1,0 +1,14 @@
+public class simple {
+
+	public static void main(String[] args) {
+		
+		
+		String first = "012";
+		int second = 10;
+		int third = 20; 
+		System.out.println(first+second+third);
+		
+
+	}
+
+}
