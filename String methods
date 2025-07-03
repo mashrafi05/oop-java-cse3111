@@ -1,0 +1,16 @@
+
+public class simple {
+
+	public static void main(String[] args) {
+		
+		
+		String Text = "LU Cse";
+		//Text.indexOf("CSE");
+		System.out.println(Text);
+		System.out.println(Text.indexOf("U"));
+		System.out.println(Text.toUpperCase());
+		System.out.println(Text.toLowerCase());
+
+	}
+
+}
