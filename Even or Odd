@@ -1,0 +1,16 @@
+public class simple {
+
+	public static void main(String[] args) {
+		
+		
+		int x = 20, y = 100;
+		if(x%2 == 0) {
+			System.out.println("x is even, x= "+x);
+		}
+		else {
+			System.out.println("x is odd, x= "+x);
+		}
+
+	}
+
+}
